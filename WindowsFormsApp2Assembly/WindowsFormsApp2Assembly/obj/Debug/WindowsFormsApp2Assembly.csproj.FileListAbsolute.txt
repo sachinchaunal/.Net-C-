@@ -1,0 +1,15 @@
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\bin\Debug\WindowsFormsApp2Assembly.exe.config
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\bin\Debug\WindowsFormsApp2Assembly.exe
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\bin\Debug\WindowsFormsApp2Assembly.pdb
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.csproj.AssemblyReference.cache
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.Form1.resources
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.Properties.Resources.resources
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.csproj.GenerateResource.cache
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.exe
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.pdb
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.Form2.resources
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\bin\Debug\ClassLibrary1Assemly.dll
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\bin\Debug\ClassLibrary1Assemly.pdb
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsFormsApp2Assembly.Form3.resources
+C:\Users\Sachin\source\repos\WindowsFormsApp2Assembly\WindowsFormsApp2Assembly\obj\Debug\WindowsF.44108DC7.Up2Date
